@@ -1,4 +1,5 @@
-# coding bar 題目\n
+# coding bar 題目  
+
 
 TO 史哥:  
 
