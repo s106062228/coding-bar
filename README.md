@@ -1,6 +1,7 @@
 # coding bar 題目\n
 
-TO 史哥:\n
+TO 史哥:  
+
     所有我用C++寫的coding bar的題目都放在這。  
     
     目前已設成private  
